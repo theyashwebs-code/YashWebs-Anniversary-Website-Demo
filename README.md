@@ -6,7 +6,7 @@ This project demonstrates how a business anniversary can be transformed into a m
 
 ## 🌐 Live Demo
 
-🔗 https://theyashwebs-code.github.io/YashWebs-anniversary/
+🔗 https://theyashwebs-code.github.io/YashWebs-Anniversary-Website-Demo/
 
 ---
 
